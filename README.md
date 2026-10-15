@@ -56,6 +56,6 @@ Student feature/model code and original written responses are preserved. Otter g
 
 The syntax and synthetic feature checks were recorded on **October 14, 2026**; this documentation refresh did not rerun them or fit a model. The final B2 implementation also retains two case-mismatched keywords (`Bonus` and `Project`) that do not match the lowercased text as written. The [validation record](VALIDATION.md) distinguishes these preserved details from the notebook's written claims.
 
-## Private coursework archive
+## Course source and sharing terms
 
-**Keep this repository private and do not share its solutions with current or future students.** The [Fall 2024 course collaboration policy](https://ds100.org/fa24/syllabus/#collaboration-policy-and-academic-honesty) prohibits sharing assignment answers and posting them publicly. This archive retains course attribution; [PROVENANCE.md](PROVENANCE.md) identifies the source material and upstream license. Private archiving does not grant broader redistribution rights.
+The [Fall 2024 course collaboration policy](https://ds100.org/fa24/syllabus/#collaboration-policy-and-academic-honesty) prohibits sharing assignment answers and posting them publicly. This archive retains course attribution; [PROVENANCE.md](PROVENANCE.md) identifies the source material and upstream license. Repository visibility does not grant additional redistribution rights.
