@@ -1,4 +1,4 @@
-# Spam/Ham Email Classifier
+# Spam and Ham Email Classifier — DATA C100
 
 Python coursework from **UC Berkeley DATA C100, Fall 2024**, preserved as two stages of an email-classification project. The notebooks contain recovered student code and written responses alongside the course's prompts and scaffolding.
 
