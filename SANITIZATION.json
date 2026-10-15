@@ -1,0 +1,271 @@
+{
+  "source": "Recovered owner Gradescope submissions; originals left unchanged",
+  "notebooks": {
+    "projB1.ipynb": {
+      "original_sha256": "d2203dda62f20f7494471d0d7000f036a4810818a51ab03460311b391790177c",
+      "original_cells": 69,
+      "removed_cells": [
+        {
+          "original_cell": 0,
+          "type": "code",
+          "reason": "Otter initialization/check/export integration removed"
+        },
+        {
+          "original_cell": 2,
+          "type": "markdown",
+          "reason": "Unused collaborator placeholder removed; no collaborator name was supplied"
+        },
+        {
+          "original_cell": 24,
+          "type": "code",
+          "reason": "Otter initialization/check/export integration removed"
+        },
+        {
+          "original_cell": 35,
+          "type": "code",
+          "reason": "Otter initialization/check/export integration removed"
+        },
+        {
+          "original_cell": 39,
+          "type": "code",
+          "reason": "Otter initialization/check/export integration removed"
+        },
+        {
+          "original_cell": 44,
+          "type": "code",
+          "reason": "Otter initialization/check/export integration removed"
+        },
+        {
+          "original_cell": 47,
+          "type": "code",
+          "reason": "Otter initialization/check/export integration removed"
+        },
+        {
+          "original_cell": 52,
+          "type": "code",
+          "reason": "Otter initialization/check/export integration removed"
+        },
+        {
+          "original_cell": 55,
+          "type": "code",
+          "reason": "Otter initialization/check/export integration removed"
+        },
+        {
+          "original_cell": 62,
+          "type": "markdown",
+          "reason": "Decorative course media/obsolete feedback and submission instructions removed"
+        },
+        {
+          "original_cell": 63,
+          "type": "markdown",
+          "reason": "Decorative course media/obsolete feedback and submission instructions removed"
+        },
+        {
+          "original_cell": 64,
+          "type": "code",
+          "reason": "Otter initialization/check/export integration removed"
+        },
+        {
+          "original_cell": 65,
+          "type": "markdown",
+          "reason": "Empty cell removed"
+        },
+        {
+          "original_cell": 66,
+          "type": "code",
+          "reason": "Empty cell removed"
+        },
+        {
+          "original_cell": 67,
+          "type": "code",
+          "reason": "Empty cell removed"
+        },
+        {
+          "original_cell": 68,
+          "type": "code",
+          "reason": "Empty cell removed"
+        }
+      ],
+      "modified_cells": [
+        {
+          "original_cell": 4,
+          "reason": "Removed optional automatic iwut package installation/extension magics; warnings setup retained"
+        },
+        {
+          "original_cell": 8,
+          "reason": "Replaced notebook backend magic with a comment so every retained code cell is plain Python syntax"
+        },
+        {
+          "original_cell": 26,
+          "reason": "Pointed instructional figures to their verified official upstream resources; decorative media excluded"
+        },
+        {
+          "original_cell": 41,
+          "reason": "Pointed instructional figures to their verified official upstream resources; decorative media excluded"
+        }
+      ],
+      "cleared_output_cells": [
+        {
+          "original_cell": 11,
+          "reason": "Removed saved raw email/record previews, including public-corpus email addresses; source display code retained"
+        },
+        {
+          "original_cell": 15,
+          "reason": "Removed saved raw email/record previews, including public-corpus email addresses; source display code retained"
+        }
+      ],
+      "retained_algorithm_source_checks": {
+        "22": true,
+        "30": true,
+        "34": true,
+        "37": true,
+        "38": true,
+        "43": true,
+        "46": true,
+        "51": true,
+        "54": true
+      },
+      "sanitized_cells": 54,
+      "sanitized_code_cells": 18
+    },
+    "projB2.ipynb": {
+      "original_sha256": "c6452b2f0d9ce518c0a8223b6175fb7010518a92dbb41eedd18170ae442e83b0",
+      "original_cells": 93,
+      "removed_cells": [
+        {
+          "original_cell": 0,
+          "type": "code",
+          "reason": "Otter initialization/check/export integration removed"
+        },
+        {
+          "original_cell": 2,
+          "type": "markdown",
+          "reason": "Unused collaborator placeholder removed; no collaborator name was supplied"
+        },
+        {
+          "original_cell": 5,
+          "type": "code",
+          "reason": "Empty cell removed"
+        },
+        {
+          "original_cell": 35,
+          "type": "code",
+          "reason": "Otter initialization/check/export integration removed"
+        },
+        {
+          "original_cell": 38,
+          "type": "code",
+          "reason": "Otter initialization/check/export integration removed"
+        },
+        {
+          "original_cell": 67,
+          "type": "code",
+          "reason": "Otter initialization/check/export integration removed"
+        },
+        {
+          "original_cell": 82,
+          "type": "markdown",
+          "reason": "Decorative course media/obsolete feedback and submission instructions removed"
+        },
+        {
+          "original_cell": 83,
+          "type": "code",
+          "reason": "Empty cell removed"
+        },
+        {
+          "original_cell": 84,
+          "type": "markdown",
+          "reason": "Decorative course media/obsolete feedback and submission instructions removed"
+        },
+        {
+          "original_cell": 85,
+          "type": "code",
+          "reason": "Otter initialization/check/export integration removed"
+        },
+        {
+          "original_cell": 86,
+          "type": "markdown",
+          "reason": "Empty cell removed"
+        },
+        {
+          "original_cell": 87,
+          "type": "code",
+          "reason": "Empty cell removed"
+        },
+        {
+          "original_cell": 88,
+          "type": "code",
+          "reason": "Empty cell removed"
+        },
+        {
+          "original_cell": 89,
+          "type": "code",
+          "reason": "Empty cell removed"
+        },
+        {
+          "original_cell": 90,
+          "type": "code",
+          "reason": "Empty cell removed"
+        },
+        {
+          "original_cell": 91,
+          "type": "code",
+          "reason": "Empty cell removed"
+        },
+        {
+          "original_cell": 92,
+          "type": "code",
+          "reason": "Empty cell removed"
+        }
+      ],
+      "modified_cells": [
+        {
+          "original_cell": 8,
+          "reason": "Replaced notebook backend magic with a comment so every retained code cell is plain Python syntax"
+        },
+        {
+          "original_cell": 23,
+          "reason": "Pointed instructional figures to their verified official upstream resources; decorative media excluded"
+        },
+        {
+          "original_cell": 40,
+          "reason": "Changed submission-specific naming/instructions to local prediction CSV export; preserved Id/Class schema and predictions"
+        }
+      ],
+      "cleared_output_cells": [
+        {
+          "original_cell": 12,
+          "reason": "Removed saved raw email/record previews, including public-corpus email addresses; source display code retained"
+        },
+        {
+          "original_cell": 49,
+          "reason": "Removed saved raw email/record previews, including public-corpus email addresses; source display code retained"
+        },
+        {
+          "original_cell": 51,
+          "reason": "Removed saved raw email/record previews, including public-corpus email addresses; source display code retained"
+        },
+        {
+          "original_cell": 53,
+          "reason": "Removed saved raw email/record previews, including public-corpus email addresses; source display code retained"
+        },
+        {
+          "original_cell": 65,
+          "reason": "Removed saved raw email/record previews, including public-corpus email addresses; source display code retained"
+        }
+      ],
+      "retained_algorithm_source_checks": {
+        "27": true,
+        "31": true,
+        "32": true,
+        "34": true,
+        "37": true,
+        "45": true,
+        "62": true,
+        "66": true
+      },
+      "sanitized_cells": 77,
+      "sanitized_code_cells": 23
+    }
+  }
+}

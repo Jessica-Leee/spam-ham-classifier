@@ -1,0 +1,9 @@
+# Imported runtime packages; exact historical versions were not captured.
+# Python 3.11.10 was used by the recovered notebooks.
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+ipython
+jupyterlab
