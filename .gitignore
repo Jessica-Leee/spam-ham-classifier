@@ -5,6 +5,12 @@ __pycache__/
 .venv/
 venv/
 .env
+.env.*
+!.env.example
+.idea/
+.vscode/
+._*
+__MACOSX/
 notebooks/spam_ham_data.zip
 notebooks/train.csv
 notebooks/test.csv

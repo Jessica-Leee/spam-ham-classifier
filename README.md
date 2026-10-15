@@ -9,6 +9,16 @@ Python coursework from **UC Berkeley DATA C100, Fall 2024**, preserved as two st
 
 The data are split 90/10 with `random_state=42`. The retained final-model code fits and scores the 90% training portion; it does not report a held-out validation score. `GridSearchCV` and other optional tools are imported in the course setup, but the submitted implementation does not perform a grid search or cross-validation. The variable named `pipeline` is a logistic-regression estimator, not a scikit-learn preprocessing pipeline.
 
+## Repository map
+
+| Location | Purpose |
+| --- | --- |
+| [`notebooks/`](notebooks/) | B1/B2 submissions and the readable B2 compatibility helper. |
+| [`scripts/`](scripts/) | Notebook-structure/syntax checks and synthetic feature checks. |
+| [`assets/`](assets/) | Retained historical ROC figure. |
+| [Data guide](DATA.md), [`requirements.txt`](requirements.txt) | Exact course-data expectations and runtime packages. |
+| [Validation](VALIDATION.md), [sanitization](SANITIZATION.md), [provenance](PROVENANCE.md) | Evaluation limits, privacy cleanup, and source attribution. |
+
 ## Recorded results
 
 These are **historical saved training outputs**, not a fresh evaluation:
@@ -43,6 +53,8 @@ Place `spam_ham_data.zip` in `notebooks/`. The code opens `train.csv` and `test.
 All 41 retained code cells pass Python syntax checks. The feature helpers also pass small synthetic-data checks without fitting a model. The full notebooks were not rerun because their dataset and complete scientific Python environment were not available in the preparation environment. See [VALIDATION.md](VALIDATION.md).
 
 Student feature/model code and original written responses are preserved. Otter grading/export integration, automatic diagnostic-package installation, and saved raw-email previews were removed; retained metric outputs and plots are clearly marked as historical. The original B2 prose mentions scaling, but the actual model code does not apply `StandardScaler`. Detailed changes are recorded in [SANITIZATION.md](SANITIZATION.md) and [SANITIZATION.json](SANITIZATION.json).
+
+The syntax and synthetic feature checks were recorded on **October 14, 2026**; this documentation refresh did not rerun them or fit a model. The final B2 implementation also retains two case-mismatched keywords (`Bonus` and `Project`) that do not match the lowercased text as written. The [validation record](VALIDATION.md) distinguishes these preserved details from the notebook's written claims.
 
 ## Private coursework archive
 
